@@ -44,10 +44,6 @@ The full PDF report is available in `/docs/BuyWiseDoc.pdf`.
 
 ---
 
-Absolutely! Here's a polished and clear version for that section, reflecting that the AI Flask API is separate and must be set up independently:
-
----
-
 ## 📦 How to Run Locally
 
 ### 1. Clone the Repository
